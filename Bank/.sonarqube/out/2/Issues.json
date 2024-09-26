@@ -75,64 +75,6 @@
               "resultFile": {
                 "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
                 "region": {
-                  "startLine": 26,
-                  "startColumn": 55,
-                  "endLine": 26,
-                  "endColumn": 63
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1512",
-          "level": "note",
-          "message": "Use 'ArgumentOutOfRangeException.ThrowIfNegative' en lugar de iniciar explícitamente una nueva instancia de excepción",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 13,
-                  "endLine": 26,
-                  "endColumn": 65
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
-                  "startLine": 25,
-                  "startColumn": 17,
-                  "endLine": 25,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "MethodNameProperty": "ThrowIfNegative"
-            }
-          }
-        },
-        {
-          "ruleId": "CA1507",
-          "level": "note",
-          "message": "Use nameof en lugar del literal de cadena \"amount\"",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
-                "region": {
                   "startLine": 18,
                   "startColumn": 55,
                   "endLine": 18,

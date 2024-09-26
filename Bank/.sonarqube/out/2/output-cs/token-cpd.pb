@@ -229,7 +229,7 @@ Enumerable 
 $num++9 ?
 )++? @
 ;++@ A
-},, ô
+},, É
 JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
 	namespace 	
 Bank
@@ -364,10 +364,15 @@ JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
 throw 
 new '
 ArgumentOutOfRangeException 5
-(5 6
-$str6 >
-)> ?
-;? @
+(5 6
+nameof6 <
+(< =
+amount= C
+)C D
+,D E
+$strF d
+)d e
+;e f
 	m_balance 
 += 
 amount 

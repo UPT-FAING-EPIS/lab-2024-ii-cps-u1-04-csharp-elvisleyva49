@@ -15,7 +15,7 @@
 
 ))@ G
 
-++ Ü
+++ æ
 JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
 
  
@@ -35,5 +35,5 @@ JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
  (
 ! '   
 
- 
-" (  
+ (
+" ( = C 

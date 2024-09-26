@@ -7,4 +7,5 @@ C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\obj\Debug\net8.0\Bank.WebAp
 C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\appsettings.Development.json
 C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\appsettings.json
 C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Bank.WebApi.http
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\dotnet
 C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Properties\launchSettings.json

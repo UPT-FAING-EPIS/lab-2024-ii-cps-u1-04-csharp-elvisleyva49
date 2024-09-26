@@ -7,7 +7,46 @@ C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\NUni
 C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.dll
 C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.api.dll
 C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\Bank.WebApi_BankAccount.html
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\Bank.WebApi_Program.html
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\Bank.WebApi_WeatherForecast.html
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\class.js
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_cog.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_cog_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_cube.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_cube_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_fork.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_fork_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_info-circled.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_info-circled_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_minus.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_minus_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_plus.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_plus_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_search-minus.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_search-minus_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_search-plus.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_search-plus_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_sponsor.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_star.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_star_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_up-dir.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_up-dir_active.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_up-down-dir.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_up-down-dir_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_wrench.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\icon_wrench_dark.svg
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\index.htm
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\index.html
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\main.js
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\coveragereport\report.css
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\008fec4d-2a53-4a37-9e9a-6c4e9f453b43\coverage.cobertura.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\2f68b748-a0a9-493e-9205-653d43d9f2be\coverage.opencover.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\4084c64b-eb94-4455-81e0-981b12c09bac\coverage.cobertura.xml
 C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\4ca59c9f-0789-4099-9bf6-330d222f0ba8\coverage.cobertura.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\bb0817af-68c9-41ab-b788-711d6466f0aa\coverage.cobertura.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\c4ffdbdd-5a97-46e6-b8b0-3bc9de4fb787\coverage.opencover.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\d467bc24-b32c-4a37-a4ca-27bb31592fbb\coverage.opencover.xml
 C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
