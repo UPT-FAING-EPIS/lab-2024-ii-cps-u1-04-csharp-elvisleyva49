@@ -27,11 +27,16 @@ jobs:
           cd Bank
           dotnet restore
       - name: Ejecutar pruebas
-        run: dotnet test --collect:"XPlat Code Coverage;Format=opencover"
+        run: |
+          cd Bank
+          dotnet test --collect:"XPlat Code Coverage;Format=opencover"
       - name: Instalar Scanner
-        run: dotnet tool install -g dotnet-sonarscanner
+        run: |
+          cd Bank
+          dotnet tool install -g dotnet-sonarscanner
       - name: Ejecutar escaneo
         run: | 
+          cd Bank
           dotnet-sonarscanner begin /k:"${{ env.SONAR_PROJECT }}" /o:"${{ env.SONAR_ORG }}" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io" /d:sonar.cs.opencover.reportsPaths="*/*/*/coverage.opencover.xml" /d:sonar.qualitygate.wait=true
           dotnet build
           dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
