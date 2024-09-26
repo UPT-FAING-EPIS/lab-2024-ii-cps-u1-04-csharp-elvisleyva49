@@ -23,7 +23,7 @@ namespace Bank.WebApi.Models
         public void Credit(double amount)
         {
             if (amount < 0)
-                throw new ArgumentOutOfRangeException("amount");
+                throw new ArgumentOutOfRangeException(nameof(amount), "Amount must be non-negative.");
             m_balance += amount;
         }
     }

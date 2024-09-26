@@ -1,0 +1,23 @@
+Ú	
+WeatherForecastobjectSystem.IEquatable<T>p
+.WeatherForecast(System.DateOnly, int, string?)>WeatherForecast.WeatherForecast(System.DateOnly, int, string?)(
+
+ToString()WeatherForecast.ToString()b
+'PrintMembers(System.Text.StringBuilder)7WeatherForecast.PrintMembers(System.Text.StringBuilder).
+GetHashCode()WeatherForecast.GetHashCode()2
+Equals(object?)WeatherForecast.Equals(object?)D
+Equals(WeatherForecast?)(WeatherForecast.Equals(WeatherForecast?)(
+
+<Clone>$()WeatherForecast.<Clone>$()T
+ WeatherForecast(WeatherForecast)0WeatherForecast.WeatherForecast(WeatherForecast)€
+6Deconstruct(out System.DateOnly, out int, out string?)FWeatherForecast.Deconstruct(out System.DateOnly, out int, out string?)<
+EqualityContract.get$WeatherForecast.EqualityContract.get<
+EqualityContract.set$WeatherForecast.EqualityContract.set$
+Date.getWeatherForecast.Date.get&
+	Date.initWeatherForecast.Date.init4
+TemperatureC.get WeatherForecast.TemperatureC.get6
+TemperatureC.init!WeatherForecast.TemperatureC.init*
+Summary.getWeatherForecast.Summary.get,
+Summary.initWeatherForecast.Summary.init4
+TemperatureF.get WeatherForecast.TemperatureF.get4
+TemperatureF.set WeatherForecast.TemperatureF.set

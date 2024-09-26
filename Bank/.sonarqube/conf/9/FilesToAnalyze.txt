@@ -1,0 +1,16 @@
+﻿C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+C:\Users\ELVIS\.nuget\packages\microsoft.net.test.sdk\17.11.1\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\ELVIS\.nuget\packages\microsoft.testplatform.testhost\17.11.1\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\ELVIS\.nuget\packages\microsoft.testplatform.testhost\17.11.1\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\ELVIS\.nuget\packages\nunit3testadapter\3.17.0\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\008fec4d-2a53-4a37-9e9a-6c4e9f453b43\coverage.cobertura.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\2f68b748-a0a9-493e-9205-653d43d9f2be\coverage.opencover.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\4ca59c9f-0789-4099-9bf6-330d222f0ba8\coverage.cobertura.xml
+C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\TestResults\c4ffdbdd-5a97-46e6-b8b0-3bc9de4fb787\coverage.opencover.xml
+C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ELVIS\.nuget\packages\mstest.testadapter\3.1.1\build\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll

@@ -1,0 +1,300 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.11.0.0",
+        "fileVersion": "4.11.0-3.24365.8 (9e9c7c1d)",
+        "semanticVersion": "4.11.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento campo \"m_customerName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required'\"o declarar el campo como un valor que acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 17,
+                  "endLine": 7,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 33,
+                  "endLine": 5,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'WeatherForecast' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Program.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 8,
+                  "endLine": 41,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1507",
+          "level": "note",
+          "message": "Use nameof en lugar del literal de cadena \"amount\"",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 55,
+                  "endLine": 18,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1507",
+          "level": "note",
+          "message": "Use nameof en lugar del literal de cadena \"amount\"",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 55,
+                  "endLine": 20,
+                  "endColumn": 63
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1512",
+          "level": "note",
+          "message": "Use 'ArgumentOutOfRangeException.ThrowIfGreaterThan' en lugar de iniciar explícitamente una nueva instancia de excepción",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 13,
+                  "endLine": 18,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 17,
+                  "endLine": 17,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 26,
+                  "endLine": 17,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "MethodNameProperty": "ThrowIfGreaterThan"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1512",
+          "level": "note",
+          "message": "Use 'ArgumentOutOfRangeException.ThrowIfNegative' en lugar de iniciar explícitamente una nueva instancia de excepción",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 13,
+                  "endLine": 20,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Models/BankAccount.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 17,
+                  "endLine": 19,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "MethodNameProperty": "ThrowIfNegative"
+            }
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await RunAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ELVIS/3D%20Objects/LAB4/lab4/Bank/Bank.WebApi/Program.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 1,
+                  "endLine": 39,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1507": {
+          "id": "CA1507",
+          "shortDescription": "Use nameof para expresar nombres de símbolos",
+          "fullDescription": "El uso de nameof ayuda a mantener el código válido durante la refactorización.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1507",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1512": {
+          "id": "CA1512",
+          "shortDescription": "Uso del asistente de inicio ArgumentOutOfRangeException",
+          "fullDescription": "Los asistentes de inicio son más sencillos y eficaces que un bloque if que construye una nueva instancia de excepción.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1512",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un campo que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de agregar el modificador \"required\" o declararlo como un valor que acepta valores NULL.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6966": {
+          "id": "S6966",
+          "shortDescription": "Awaitable method should be used",
+          "fullDescription": "In an async method, any blocking operations should be avoided.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6966",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
