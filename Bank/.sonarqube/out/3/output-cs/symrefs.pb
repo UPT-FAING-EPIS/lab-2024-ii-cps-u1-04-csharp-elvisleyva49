@@ -1,5 +1,5 @@
-æ
-NC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+î
+VC:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi.Tests\BankAccountTests.cs
 
  !
 

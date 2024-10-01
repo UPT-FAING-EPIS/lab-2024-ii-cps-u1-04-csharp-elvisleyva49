@@ -1,5 +1,5 @@
-±
-?C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Program.cs$
+¹
+GC:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi\Program.cs$
    
  @
       '' 
@@ -15,8 +15,8 @@
 
 ))@ G
 
-++ æ
-JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
+++ î
+RC:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
 
  
   .

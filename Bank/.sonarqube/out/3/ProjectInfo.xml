@@ -4,14 +4,14 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
   <ProjectGuid>d7bc2f50-86f6-4611-9f51-034327d5fb10</ProjectGuid>
-  <FullPath>C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi.Tests\Bank.WebApi.Tests.csproj</FullPath>
+  <FullPath>C:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi.Tests\Bank.WebApi.Tests.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\.sonarqube\conf\3\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\.sonarqube\conf\3\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\.sonarqube\out\3\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\.sonarqube\out\3</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\.sonarqube\out\3</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

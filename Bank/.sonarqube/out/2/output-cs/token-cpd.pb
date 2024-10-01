@@ -1,5 +1,5 @@
-ë
-?C:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Program.cs
+ó
+GC:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi\Program.cs
 var 
 builder 
 = 
@@ -229,8 +229,8 @@ Enumerable 
 $num++9 ?
 )++? @
 ;++@ A
-},, É
-JC:\Users\ELVIS\3D Objects\LAB4\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
+},, Ñ
+RC:\Users\ELVIS\3D Objects\Avance_01_10\lab4\Bank\Bank.WebApi\Models\BankAccount.cs
 	namespace 	
 Bank
  
