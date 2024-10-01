@@ -1,8 +1,8 @@
 name: Sonar Continuous Integration
 env:
   DOTNET_VERSION: '8.x'                     # la versión de .NET
-  SONAR_ORG: 'elvis'                   # Nombre de la organización de SonarCloud
-  SONAR_PROJECT: 'elvis'      # Key ID del proyecto de Sonar
+  SONAR_ORG: 'elvisleyva'                   # Nombre de la organización de SonarCloud
+  SONAR_PROJECT: 'elvisleyva'      # Key ID del proyecto de Sonar
 on:
   push:
     branches: [ "main" ]
